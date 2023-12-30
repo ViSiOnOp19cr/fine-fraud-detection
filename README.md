@@ -1,4 +1,4 @@
-# fine-fraud-detection
+# wine-fraud-detection
 This project is an capstone project done in my learning progress.
 This project is used to check whether the wine is legit or any fraud has be done 
 step 1: i did some data visualization on data
